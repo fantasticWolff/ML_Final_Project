@@ -1,0 +1,195 @@
+
+frequency is 1
+dict length: 43861Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.99      0.97      0.98      1299
+        Spam       0.94      0.97      0.96       592
+
+    accuracy                           0.97      1891
+   macro avg       0.96      0.97      0.97      1891
+weighted avg       0.97      0.97      0.97      1891
+
+------------------------------------
+
+frequency is 2
+dict length: 26435Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.99      0.97      0.98      1299
+        Spam       0.95      0.97      0.96       592
+
+    accuracy                           0.97      1891
+   macro avg       0.97      0.97      0.97      1891
+weighted avg       0.97      0.97      0.97      1891
+
+------------------------------------
+
+frequency is 3
+dict length: 21068Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.99      0.97      0.98      1299
+        Spam       0.95      0.97      0.96       592
+
+    accuracy                           0.97      1891
+   macro avg       0.97      0.97      0.97      1891
+weighted avg       0.97      0.97      0.97      1891
+
+------------------------------------
+
+frequency is 5
+dict length: 15425Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.98      0.97      0.98      1299
+        Spam       0.94      0.97      0.95       592
+
+    accuracy                           0.97      1891
+   macro avg       0.96      0.97      0.97      1891
+weighted avg       0.97      0.97      0.97      1891
+
+------------------------------------
+
+frequency is 10
+dict length: 9890Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.98      0.97      0.98      1299
+        Spam       0.95      0.97      0.96       592
+
+    accuracy                           0.97      1891
+   macro avg       0.96      0.97      0.97      1891
+weighted avg       0.97      0.97      0.97      1891
+
+------------------------------------
+
+frequency is 20
+dict length: 6247Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.99      0.98      0.98      1299
+        Spam       0.95      0.97      0.96       592
+
+    accuracy                           0.97      1891
+   macro avg       0.97      0.97      0.97      1891
+weighted avg       0.97      0.97      0.97      1891
+
+------------------------------------
+
+frequency is 30
+dict length: 4690Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.99      0.97      0.98      1299
+        Spam       0.95      0.97      0.96       592
+
+    accuracy                           0.97      1891
+   macro avg       0.97      0.97      0.97      1891
+weighted avg       0.97      0.97      0.97      1891
+
+------------------------------------
+
+frequency is 50
+dict length: 3170Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.99      0.97      0.98      1299
+        Spam       0.95      0.97      0.96       592
+
+    accuracy                           0.97      1891
+   macro avg       0.97      0.97      0.97      1891
+weighted avg       0.97      0.97      0.97      1891
+
+------------------------------------
+
+frequency is 100
+dict length: 1746Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.98      0.97      0.98      1299
+        Spam       0.93      0.96      0.95       592
+
+    accuracy                           0.97      1891
+   macro avg       0.96      0.97      0.96      1891
+weighted avg       0.97      0.97      0.97      1891
+
+------------------------------------
+
+frequency is 200
+dict length: 923Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.98      0.96      0.97      1299
+        Spam       0.92      0.95      0.94       592
+
+    accuracy                           0.96      1891
+   macro avg       0.95      0.96      0.95      1891
+weighted avg       0.96      0.96      0.96      1891
+
+------------------------------------
+
+frequency is 300
+dict length: 618Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.97      0.97      0.97      1299
+        Spam       0.93      0.94      0.93       592
+
+    accuracy                           0.96      1891
+   macro avg       0.95      0.95      0.95      1891
+weighted avg       0.96      0.96      0.96      1891
+
+------------------------------------
+
+frequency is 500
+dict length: 364Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.96      0.95      0.95      1299
+        Spam       0.89      0.91      0.90       592
+
+    accuracy                           0.94      1891
+   macro avg       0.93      0.93      0.93      1891
+weighted avg       0.94      0.94      0.94      1891
+
+------------------------------------
+
+frequency is 1000
+dict length: 170Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.95      0.92      0.94      1299
+        Spam       0.83      0.90      0.87       592
+
+    accuracy                           0.91      1891
+   macro avg       0.89      0.91      0.90      1891
+weighted avg       0.92      0.91      0.91      1891
+
+------------------------------------
+
+frequency is 2000
+dict length: 89Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.91      0.93      0.92      1299
+        Spam       0.84      0.79      0.81       592
+
+    accuracy                           0.89      1891
+   macro avg       0.87      0.86      0.87      1891
+weighted avg       0.89      0.89      0.89      1891
+
+------------------------------------
+
+frequency is 10000
+dict length: 18Algorithm: SVM
+              precision    recall  f1-score   support
+
+         ham       0.84      0.96      0.89      1299
+        Spam       0.87      0.59      0.70       592
+
+    accuracy                           0.84      1891
+   macro avg       0.86      0.77      0.80      1891
+weighted avg       0.85      0.84      0.83      1891
+
+------------------------------------

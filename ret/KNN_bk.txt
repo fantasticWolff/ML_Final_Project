@@ -1,0 +1,208 @@
+
+frequency is 1
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.91      0.71      0.80      1299
+        Spam       0.57      0.85      0.68       592
+
+    accuracy                           0.75      1891
+   macro avg       0.74      0.78      0.74      1891
+weighted avg       0.80      0.75      0.76      1891
+
+------------------------------------
+
+frequency is 2
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.91      0.71      0.80      1299
+        Spam       0.57      0.85      0.68       592
+
+    accuracy                           0.75      1891
+   macro avg       0.74      0.78      0.74      1891
+weighted avg       0.80      0.75      0.76      1891
+
+------------------------------------
+
+frequency is 3
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.91      0.71      0.80      1299
+        Spam       0.57      0.85      0.68       592
+
+    accuracy                           0.75      1891
+   macro avg       0.74      0.78      0.74      1891
+weighted avg       0.80      0.75      0.76      1891
+
+------------------------------------
+
+frequency is 5
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.91      0.71      0.80      1299
+        Spam       0.57      0.85      0.68       592
+
+    accuracy                           0.75      1891
+   macro avg       0.74      0.78      0.74      1891
+weighted avg       0.80      0.75      0.76      1891
+
+------------------------------------
+
+frequency is 10
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.91      0.71      0.80      1299
+        Spam       0.57      0.85      0.68       592
+
+    accuracy                           0.75      1891
+   macro avg       0.74      0.78      0.74      1891
+weighted avg       0.80      0.75      0.76      1891
+
+------------------------------------
+
+frequency is 20
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.91      0.71      0.80      1299
+        Spam       0.57      0.85      0.68       592
+
+    accuracy                           0.75      1891
+   macro avg       0.74      0.78      0.74      1891
+weighted avg       0.80      0.75      0.76      1891
+
+------------------------------------
+
+frequency is 30
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.91      0.71      0.80      1299
+        Spam       0.57      0.85      0.68       592
+
+    accuracy                           0.75      1891
+   macro avg       0.74      0.78      0.74      1891
+weighted avg       0.80      0.75      0.76      1891
+
+------------------------------------
+
+frequency is 50
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.91      0.71      0.80      1299
+        Spam       0.57      0.85      0.68       592
+
+    accuracy                           0.75      1891
+   macro avg       0.74      0.78      0.74      1891
+weighted avg       0.80      0.75      0.76      1891
+
+------------------------------------
+
+frequency is 100
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.91      0.71      0.80      1299
+        Spam       0.57      0.85      0.68       592
+
+    accuracy                           0.75      1891
+   macro avg       0.74      0.78      0.74      1891
+weighted avg       0.80      0.75      0.76      1891
+
+------------------------------------
+
+frequency is 200
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.91      0.72      0.80      1299
+        Spam       0.58      0.85      0.69       592
+
+    accuracy                           0.76      1891
+   macro avg       0.74      0.78      0.75      1891
+weighted avg       0.81      0.76      0.77      1891
+
+------------------------------------
+
+frequency is 300
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.91      0.74      0.82      1299
+        Spam       0.60      0.84      0.70       592
+
+    accuracy                           0.77      1891
+   macro avg       0.75      0.79      0.76      1891
+weighted avg       0.81      0.77      0.78      1891
+
+------------------------------------
+
+frequency is 500
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.92      0.87      0.89      1299
+        Spam       0.75      0.83      0.79       592
+
+    accuracy                           0.86      1891
+   macro avg       0.83      0.85      0.84      1891
+weighted avg       0.86      0.86      0.86      1891
+
+------------------------------------
+
+frequency is 1000
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.88      0.88      0.88      1299
+        Spam       0.74      0.74      0.74       592
+
+    accuracy                           0.84      1891
+   macro avg       0.81      0.81      0.81      1891
+weighted avg       0.84      0.84      0.84      1891
+
+------------------------------------
+
+frequency is 2000
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.86      0.98      0.91      1299
+        Spam       0.93      0.64      0.76       592
+
+    accuracy                           0.87      1891
+   macro avg       0.89      0.81      0.84      1891
+weighted avg       0.88      0.87      0.87      1891
+
+------------------------------------
+
+frequency is 10000
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.85      0.98      0.91      1299
+        Spam       0.93      0.63      0.75       592
+
+    accuracy                           0.87      1891
+   macro avg       0.89      0.81      0.83      1891
+weighted avg       0.88      0.87      0.86      1891
+
+------------------------------------
+
+frequency is 100
+Algorithm: K-nn
+              precision    recall  f1-score   support
+
+         ham       0.90      0.95      0.93      1299
+        Spam       0.88      0.78      0.82       592
+
+    accuracy                           0.90      1891
+   macro avg       0.89      0.86      0.87      1891
+weighted avg       0.89      0.90      0.89      1891
+
+------------------------------------
