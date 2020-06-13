@@ -1,0 +1,78 @@
+
+frequency is 1
+dict length: 18010
+Recall		Precision	Accuracy
+91.33		93.2		95.56
+------------------------------------
+
+frequency is 2
+dict length: 11564
+Recall		Precision	Accuracy
+90.67		93.15		95.37
+------------------------------------
+
+frequency is 3
+dict length: 8633
+Recall		Precision	Accuracy
+90.67		93.15		95.37
+------------------------------------
+
+frequency is 5
+dict length: 6130
+Recall		Precision	Accuracy
+91.33		93.2		95.56
+------------------------------------
+
+frequency is 10
+dict length: 3944
+Recall		Precision	Accuracy
+91.33		93.84		95.75
+------------------------------------
+
+frequency is 20
+dict length: 2395
+Recall		Precision	Accuracy
+90.67		94.44		95.75
+------------------------------------
+
+frequency is 30
+dict length: 1751
+Recall		Precision	Accuracy
+91.33		94.48		95.95
+------------------------------------
+
+frequency is 50
+dict length: 1101
+Recall		Precision	Accuracy
+91.33		93.2		95.56
+------------------------------------
+
+frequency is 100
+dict length: 506
+Recall		Precision	Accuracy
+92.67		90.85		95.17
+------------------------------------
+
+frequency is 200
+dict length: 209
+Recall		Precision	Accuracy
+92.0		87.9		94.02
+------------------------------------
+
+frequency is 300
+dict length: 106
+Recall		Precision	Accuracy
+93.33		83.83		92.86
+------------------------------------
+
+frequency is 500
+dict length: 45
+Recall		Precision	Accuracy
+93.33		77.35		90.15
+------------------------------------
+
+frequency is 1000
+dict length: 13
+Recall		Precision	Accuracy
+48.67		82.02		82.05
+------------------------------------

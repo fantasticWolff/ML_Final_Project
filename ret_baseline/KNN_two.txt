@@ -1,0 +1,191 @@
+
+frequency is 3
+dict length: 30134
+frequency is 3
+dict length: 30134neighbor is :3
+
+Recall		Precision	Accuracy
+84.97		42.38		59.12
+------------------------------------
+
+frequency is 50
+dict length: 2693neighbor is :3
+
+Recall		Precision	Accuracy
+78.38		76.32		85.62
+------------------------------------
+
+frequency is 1000
+dict length: 127neighbor is :3
+
+Recall		Precision	Accuracy
+86.32		70.78		84.56
+------------------------------------
+
+frequency is 3
+dict length: 30134neighbor is :4
+
+Recall		Precision	Accuracy
+78.55		41.67		58.86
+------------------------------------
+
+frequency is 50
+dict length: 2693neighbor is :4
+
+Recall		Precision	Accuracy
+70.78		76.88		84.19
+------------------------------------
+
+frequency is 1000
+dict length: 127neighbor is :4
+
+Recall		Precision	Accuracy
+81.59		76.06		86.2
+------------------------------------
+
+frequency is 3
+dict length: 30134neighbor is :5
+
+Recall		Precision	Accuracy
+84.97		39.33		54.26
+------------------------------------
+
+frequency is 50
+dict length: 2693neighbor is :5
+
+Recall		Precision	Accuracy
+78.21		55.18		73.29
+------------------------------------
+
+frequency is 1000
+dict length: 127neighbor is :5
+
+Recall		Precision	Accuracy
+86.32		71.37		84.88
+------------------------------------
+
+frequency is 3
+dict length: 30134neighbor is :10
+
+Recall		Precision	Accuracy
+87.33		39.08		53.41
+------------------------------------
+
+frequency is 50
+dict length: 2693neighbor is :10
+
+Recall		Precision	Accuracy
+75.17		43.76		61.98
+------------------------------------
+
+frequency is 1000
+dict length: 127neighbor is :10
+
+Recall		Precision	Accuracy
+88.34		60.74		78.48
+------------------------------------
+
+frequency is 3
+dict length: 30134neighbor is :30
+
+Recall		Precision	Accuracy
+93.75		33.56		39.93
+------------------------------------
+
+frequency is 50
+dict length: 2693neighbor is :30
+
+Recall		Precision	Accuracy
+81.08		36.59		50.08
+------------------------------------
+
+frequency is 1000
+dict length: 127neighbor is :30
+
+Recall		Precision	Accuracy
+90.03		50.52		69.28
+------------------------------------
+
+frequency is 3
+dict length: 30134neighbor is :50
+
+Recall		Precision	Accuracy
+95.95		32.53		36.44
+------------------------------------
+
+frequency is 50
+dict length: 2693neighbor is :50
+
+Recall		Precision	Accuracy
+84.46		35.87		47.86
+------------------------------------
+
+frequency is 1000
+dict length: 127neighbor is :50
+
+Recall		Precision	Accuracy
+89.53		47.83		66.16
+------------------------------------
+
+frequency is 3
+dict length: 30134neighbor is :100
+
+Recall		Precision	Accuracy
+96.45		31.74		33.95
+------------------------------------
+
+frequency is 50
+dict length: 2693neighbor is :100
+
+Recall		Precision	Accuracy
+87.5		34.93		45.06
+------------------------------------
+
+frequency is 1000
+dict length: 127neighbor is :100
+
+Recall		Precision	Accuracy
+83.95		43.83		61.29
+------------------------------------
+
+frequency is 3
+dict length: 30134neighbor is :300
+
+Recall		Precision	Accuracy
+72.8		83.2		86.89
+------------------------------------
+
+frequency is 50
+dict length: 2693neighbor is :300
+
+Recall		Precision	Accuracy
+77.7		68.55		81.86
+------------------------------------
+
+frequency is 1000
+dict length: 127neighbor is :300
+
+Recall		Precision	Accuracy
+72.8		51.62		70.12
+------------------------------------
+
+frequency is 3
+dict length: 30134neighbor is :500
+
+Recall		Precision	Accuracy
+1.18		100.0		69.06
+------------------------------------
+
+frequency is 50
+dict length: 2693neighbor is :500
+
+Recall		Precision	Accuracy
+27.87		93.75		76.84
+------------------------------------
+
+frequency is 1000
+dict length: 127neighbor is :500
+
+Recall		Precision	Accuracy
+54.39		80.9		81.7
+------------------------------------

@@ -1,0 +1,210 @@
+
+frequency is 1
+dict length: 93108
+
+Spam
+Recall		Precision	Accuracy
+94.76		97.23		97.51
+
+Ham
+Recall		Precision	Accuracy
+98.77		97.64		97.51
+
+tn 1283 fp 16 fn 31 tp 561
+------------------------------------
+
+frequency is 2
+dict length: 53127
+
+Spam
+Recall		Precision	Accuracy
+95.44		97.58		97.83
+
+Ham
+Recall		Precision	Accuracy
+98.92		97.94		97.83
+
+tn 1285 fp 14 fn 27 tp 565
+------------------------------------
+
+frequency is 3
+dict length: 39076
+
+Spam
+Recall		Precision	Accuracy
+94.76		97.06		97.46
+
+Ham
+Recall		Precision	Accuracy
+98.69		97.64		97.46
+
+tn 1282 fp 17 fn 31 tp 561
+------------------------------------
+
+frequency is 5
+dict length: 25515
+
+Spam
+Recall		Precision	Accuracy
+94.59		96.89		97.36
+
+Ham
+Recall		Precision	Accuracy
+98.61		97.56		97.36
+
+tn 1281 fp 18 fn 32 tp 560
+------------------------------------
+
+frequency is 10
+dict length: 14220
+
+Spam
+Recall		Precision	Accuracy
+92.91		95.16		96.3
+
+Ham
+Recall		Precision	Accuracy
+97.84		96.8		96.3
+
+tn 1271 fp 28 fn 42 tp 550
+------------------------------------
+
+frequency is 20
+dict length: 8060
+
+Spam
+Recall		Precision	Accuracy
+91.55		94.1		95.56
+
+Ham
+Recall		Precision	Accuracy
+97.38		96.2		95.56
+
+tn 1265 fp 34 fn 50 tp 542
+------------------------------------
+
+frequency is 30
+dict length: 5634
+
+Spam
+Recall		Precision	Accuracy
+92.74		92.42		95.35
+
+Ham
+Recall		Precision	Accuracy
+96.54		96.68		95.35
+
+tn 1254 fp 45 fn 43 tp 549
+------------------------------------
+
+frequency is 50
+dict length: 3469
+
+Spam
+Recall		Precision	Accuracy
+92.57		84.57		92.38
+
+Ham
+Recall		Precision	Accuracy
+92.3		96.46		92.38
+
+tn 1199 fp 100 fn 44 tp 548
+------------------------------------
+
+frequency is 100
+dict length: 1820
+
+Spam
+Recall		Precision	Accuracy
+92.4		78.48		89.69
+
+Ham
+Recall		Precision	Accuracy
+88.45		96.23		89.69
+
+tn 1149 fp 150 fn 45 tp 547
+------------------------------------
+
+frequency is 200
+dict length: 970
+
+Spam
+Recall		Precision	Accuracy
+90.37		81.06		90.38
+
+Ham
+Recall		Precision	Accuracy
+90.38		95.37		90.38
+
+tn 1174 fp 125 fn 57 tp 535
+------------------------------------
+
+frequency is 300
+dict length: 662
+
+Spam
+Recall		Precision	Accuracy
+82.77		79.03		87.73
+
+Ham
+Recall		Precision	Accuracy
+89.99		91.97		87.73
+
+tn 1169 fp 130 fn 102 tp 490
+------------------------------------
+
+frequency is 500
+dict length: 417
+
+Spam
+Recall		Precision	Accuracy
+79.05		72.45		84.03
+
+Ham
+Recall		Precision	Accuracy
+86.3		90.04		84.03
+
+tn 1121 fp 178 fn 124 tp 468
+------------------------------------
+
+frequency is 1000
+dict length: 205
+
+Spam
+Recall		Precision	Accuracy
+80.24		78.12		86.78
+
+Ham
+Recall		Precision	Accuracy
+89.76		90.88		86.78
+
+tn 1166 fp 133 fn 117 tp 475
+------------------------------------
+
+frequency is 2000
+dict length: 99
+
+Spam
+Recall		Precision	Accuracy
+77.53		56.6		74.35
+
+Ham
+Recall		Precision	Accuracy
+72.9		87.69		74.35
+
+tn 947 fp 352 fn 133 tp 459
+------------------------------------
+
+frequency is 10000
+dict length: 18
+
+Spam
+Recall		Precision	Accuracy
+100.0		31.91		33.21
+
+Ham
+Recall		Precision	Accuracy
+2.77		100.0		33.21
+
+tn 36 fp 1263 fn 0 tp 592
+------------------------------------

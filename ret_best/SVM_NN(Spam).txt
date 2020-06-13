@@ -1,0 +1,330 @@
+
+frequency is 1
+dict length: 83608
+----------------- SVM_NN(Spam) -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.89		97.89		98.68
+
+Ham
+Recall		Precision	Accuracy
+99.04		99.04		98.68
+
+tn 411 fp 4 fn 4 tp 186
+------------------------------------
+
+----------------- test -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.89		97.89		98.68
+
+Ham
+Recall		Precision	Accuracy
+99.04		99.04		98.68
+
+tn 411 fp 4 fn 4 tp 186
+------------------------------------
+
+frequency is 2
+dict length: 48665
+----------------- SVM_NN(Spam) -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.89		97.89		98.68
+
+Ham
+Recall		Precision	Accuracy
+99.04		99.04		98.68
+
+tn 411 fp 4 fn 4 tp 186
+------------------------------------
+
+----------------- test -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+98.42		97.4		98.68
+
+Ham
+Recall		Precision	Accuracy
+98.8		99.27		98.68
+
+tn 410 fp 5 fn 3 tp 187
+------------------------------------
+
+frequency is 3
+dict length: 36475
+----------------- SVM_NN(Spam) -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.37		97.88		98.51
+
+Ham
+Recall		Precision	Accuracy
+99.04		98.8		98.51
+
+tn 411 fp 4 fn 5 tp 185
+------------------------------------
+
+----------------- test -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.89		96.37		98.18
+
+Ham
+Recall		Precision	Accuracy
+98.31		99.03		98.18
+
+tn 408 fp 7 fn 4 tp 186
+------------------------------------
+
+frequency is 5
+dict length: 24595
+----------------- SVM_NN(Spam) -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.89		97.89		98.68
+
+Ham
+Recall		Precision	Accuracy
+99.04		99.04		98.68
+
+tn 411 fp 4 fn 4 tp 186
+------------------------------------
+
+----------------- test -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+98.42		97.4		98.68
+
+Ham
+Recall		Precision	Accuracy
+98.8		99.27		98.68
+
+tn 410 fp 5 fn 3 tp 187
+------------------------------------
+
+frequency is 10
+dict length: 12954
+----------------- SVM_NN(Spam) -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.89		97.89		98.68
+
+Ham
+Recall		Precision	Accuracy
+99.04		99.04		98.68
+
+tn 411 fp 4 fn 4 tp 186
+------------------------------------
+
+----------------- test -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+98.42		96.89		98.51
+
+Ham
+Recall		Precision	Accuracy
+98.55		99.27		98.51
+
+tn 409 fp 6 fn 3 tp 187
+------------------------------------
+
+frequency is 20
+dict length: 7319
+----------------- SVM_NN(Spam) -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.89		97.89		98.68
+
+Ham
+Recall		Precision	Accuracy
+99.04		99.04		98.68
+
+tn 411 fp 4 fn 4 tp 186
+------------------------------------
+
+----------------- test -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.89		95.88		98.02
+
+Ham
+Recall		Precision	Accuracy
+98.07		99.03		98.02
+
+tn 407 fp 8 fn 4 tp 186
+------------------------------------
+
+frequency is 30
+dict length: 5031
+----------------- SVM_NN(Spam) -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.89		97.89		98.68
+
+Ham
+Recall		Precision	Accuracy
+99.04		99.04		98.68
+
+tn 411 fp 4 fn 4 tp 186
+------------------------------------
+
+----------------- test -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.89		94.9		97.69
+
+Ham
+Recall		Precision	Accuracy
+97.59		99.02		97.69
+
+tn 405 fp 10 fn 4 tp 186
+------------------------------------
+
+frequency is 50
+dict length: 3140
+----------------- SVM_NN(Spam) -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.37		97.88		98.51
+
+Ham
+Recall		Precision	Accuracy
+99.04		98.8		98.51
+
+tn 411 fp 4 fn 5 tp 185
+------------------------------------
+
+----------------- test -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.37		94.39		97.36
+
+Ham
+Recall		Precision	Accuracy
+97.35		98.78		97.36
+
+tn 404 fp 11 fn 5 tp 185
+------------------------------------
+
+frequency is 100
+dict length: 1560
+----------------- SVM_NN(Spam) -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.37		96.86		98.18
+
+Ham
+Recall		Precision	Accuracy
+98.55		98.79		98.18
+
+tn 409 fp 6 fn 5 tp 185
+------------------------------------
+
+----------------- test -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.37		94.39		97.36
+
+Ham
+Recall		Precision	Accuracy
+97.35		98.78		97.36
+
+tn 404 fp 11 fn 5 tp 185
+------------------------------------
+
+frequency is 200
+dict length: 689
+----------------- SVM_NN(Spam) -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+96.84		96.84		98.02
+
+Ham
+Recall		Precision	Accuracy
+98.55		98.55		98.02
+
+tn 409 fp 6 fn 6 tp 184
+------------------------------------
+
+----------------- test -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+97.89		91.63		96.53
+
+Ham
+Recall		Precision	Accuracy
+95.9		99.0		96.53
+
+tn 398 fp 17 fn 4 tp 186
+------------------------------------
+
+frequency is 300
+dict length: 429
+----------------- SVM_NN(Spam) -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+96.84		96.34		97.85
+
+Ham
+Recall		Precision	Accuracy
+98.31		98.55		97.85
+
+tn 408 fp 7 fn 6 tp 184
+------------------------------------
+
+----------------- test -------------------
+
+
+Spam
+Recall		Precision	Accuracy
+98.42		91.67		96.69
+
+Ham
+Recall		Precision	Accuracy
+95.9		99.25		96.69
+
+tn 398 fp 17 fn 3 tp 187
+------------------------------------
